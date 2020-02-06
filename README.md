@@ -1,4 +1,4 @@
-# changes-stream rr
+# changes-stream rrww
 
 [![build status](https://secure.travis-ci.org/jcrugzz/changes-stream.svg)](http://travis-ci.org/jcrugzz/changes-stream)
 
